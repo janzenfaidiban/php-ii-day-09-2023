@@ -2,5 +2,7 @@
 Belajar MySQL
 
 ## Janzen Faidiban
-
 Bagian ini milik Janzen
+
+## Elia Itlay
+Bagian ini milik Elia

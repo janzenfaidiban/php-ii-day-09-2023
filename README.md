@@ -20,4 +20,4 @@ Bagian ini Milik Jekson
 Bagian ini milik Elia
 
 ## Abed Nego
-Bbagian ini milik abed
+Bagian ini milik abed

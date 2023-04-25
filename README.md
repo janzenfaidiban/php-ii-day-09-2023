@@ -2,9 +2,21 @@
 
 Belajar MySQL
 
-## Paulus sesa
+## Janzen Faidiban
 
-Bagian ini milik Paulus
+Bagian ini milik Janzen
+
+## Sulenias Asso
+
+Bagian ini milik Sulenias
+
+## Elia Itlay
+
+Bagian ini milik Elia
+
+## Jekson Tabuni
+
+Bagian ini Milik Jekson
 
 ## Elia Itlay
 

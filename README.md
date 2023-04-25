@@ -25,5 +25,5 @@ Bagian ini Milik Jekson
 
 Bagian ini milik Elia
 
-## abed nego
-bagian ini milik abed
+## Abed Nego
+Bbagian ini milik abed

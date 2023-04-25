@@ -3,6 +3,7 @@
 Belajar MySQL
 
 ## Laurens Maker
+
 Bagian ini milik laurens
 
 ## Janzen Faidiban
@@ -26,4 +27,9 @@ Bagian ini Milik Jekson
 Bagian ini milik Elia
 
 ## Abed Nego
+
 Bagian ini milik abed
+
+## Paulus Sesa
+
+Bagian ini milik paulus

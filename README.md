@@ -2,6 +2,9 @@
 
 Belajar MySQL
 
+## Laurens Maker
+Bagian ini milik laurens
+
 ## Janzen Faidiban
 
 Bagian ini milik Janzen

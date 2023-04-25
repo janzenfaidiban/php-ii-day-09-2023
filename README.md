@@ -1,6 +1,20 @@
 # php-ii-day-09-2023
 Belajar MySQL
 
-## Arifander Tenouye
+## Laurens Maker
+Bagian ini milik laurens
 
-Bagian ini milik Arifander
+## Janzen Faidiban
+Bagian ini milik Janzen
+
+## Sulenias Asso
+Bagian ini milik Sulenias
+
+## Elia Itlay
+Bagian ini milik Elia
+
+## Jekson Tabuni
+Bagian ini Milik Jekson
+
+## Elia Itlay
+Bagian ini milik Elia

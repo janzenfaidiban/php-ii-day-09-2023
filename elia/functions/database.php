@@ -2,12 +2,12 @@
     $servername     = "localhost";
     $username       = "root";
     $password       = "";
-    $dbname         = "sacode_janzen";
+    $dbname         = "sacode_elia";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
 
     // Check connection
     if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
+        die("Connection itlay: " . $conn->connect_error);
     }

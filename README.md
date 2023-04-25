@@ -8,7 +8,7 @@ Bagian ini milik laurens
 Bagian ini milik Janzen
 
 ## Sulenias Asso
-	Bagian ini milik Sulenias
+Bagian ini milik Sulenias
 ## Elia Itlay
 
 ## Jekson Tabuni

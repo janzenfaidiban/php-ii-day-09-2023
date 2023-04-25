@@ -2,7 +2,7 @@
     $servername     = "localhost";
     $username       = "root";
     $password       = "";
-    $dbname         = "sacode_Arifander";
+    $dbname         = "sacode_arifander";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);

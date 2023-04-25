@@ -11,9 +11,13 @@ Bagian ini milik laurens
 Bagian ini milik Janzen
 
 ## Sulenias Asso
+<<<<<<< HEAD
+Bagian ini milik Sulenias
+=======
 
     Bagian ini milik Sulenias
 
+>>>>>>> dec4bc8420ba6c6fb97a1e37b099c1e1eec3d25b
 ## Elia Itlay
 
 ## Jekson Tabuni

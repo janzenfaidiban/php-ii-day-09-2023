@@ -16,3 +16,6 @@ bagian ini Milik Jekson
 
 ## Elia Itlay
 Bagian ini milik Elia
+
+## Abed Nego
+Bagian ini milik abed

@@ -35,7 +35,7 @@ GitHub Profile :
 
 ## Delvi Wamu
 Bagian ini milik Delvi
-GitHub Profile : 
+GitHub Profile : https://github.com/delviwamu
 
 ## Anjas Tabuni
 Bagian ini milik Anjas

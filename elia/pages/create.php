@@ -1,10 +1,12 @@
             <section class="bg-gray-200 p-5">
 
-                <a href="?page=" class="bg-gray-300 hover:bg-gray-400 transition px-3 py-2">Kembali</a>
+                <a href="index.php?page=beranda" class="bg-gray-300 hover:bg-gray-400 transition px-3 py-2">Kembali</a>
 
             </section>
             
             <div class="p-5">
+
+            <h1 class="text-3xl">Form Tambah Siswa</h1>
                 
                 <!-- form start -->
                 <form action="functions/create.php" method="post">

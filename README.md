@@ -15,7 +15,7 @@ GitHub Profile :
 
 ## Elia Itlay
 Bagian ini milik Elia
-GitHub Profile : 
+GitHub Profile : https://github.com/eliaitlay
 
 ## Jekson Tabuni
 bagian ini Milik Jekson
@@ -23,7 +23,7 @@ GitHub Profile :
 
 ## Elia Itlay
 Bagian ini milik Elia
-GitHub Profile : 
+GitHub Profile : https://github.com/eliaitlay
 
 ## Abed Nego
 Bagian ini milik abed

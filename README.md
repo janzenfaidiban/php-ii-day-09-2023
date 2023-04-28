@@ -1,42 +1,53 @@
 # php-ii-day-09-2023
+
 Belajar MySQL
 
 ## Janzen Faidiban
+
 Bagian ini milik Janzen
 GitHub Profile : https://github.com/janzenfaidiban/
 
 ## Laurens Maker
+
 Bagian ini milik laurens
-GitHub Profile : 
+GitHub Profile :
 
 ## Sulenias Asso
+
 Bagian ini milik Sulenias
-GitHub Profile : 
+GitHub Profile : https://github.com/sulenias
 
 ## Elia Itlay
+
 Bagian ini milik Elia
-GitHub Profile : 
+GitHub Profile : https://github.com/eliaitlay
 
 ## Jekson Tabuni
+
 bagian ini Milik Jekson
-GitHub Profile : 
+GitHub Profile :
 
 ## Elia Itlay
+
 Bagian ini milik Elia
-GitHub Profile : 
+GitHub Profile : https://github.com/eliaitlay
 
 ## Abed Nego
+
 Bagian ini milik abed
-GitHub Profile : 
+GitHub Profile :
 
 ## Paulus Sesa
+
 Bagian ini milik paulus
-GitHub Profile : 
+GitHub Profile :
 
 ## Delvi Wamu
+
 Bagian ini milik Delvi
-GitHub Profile : 
+GitHub Profile :
 
 ## Anjas Tabuni
+
 Bagian ini milik Anjas
-GitHub Profile : 
+GitHub Profile : https://github.com/anjastabuni

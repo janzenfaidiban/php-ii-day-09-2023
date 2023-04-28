@@ -15,12 +15,12 @@ GitHub Profile :
 ## Sulenias Asso
 
 Bagian ini milik Sulenias
-GitHub Profile :
+GitHub Profile : https://github.com/sulenias
 
 ## Elia Itlay
 
 Bagian ini milik Elia
-GitHub Profile :
+GitHub Profile : https://github.com/eliaitlay
 
 ## Jekson Tabuni
 
@@ -30,7 +30,7 @@ GitHub Profile :
 ## Elia Itlay
 
 Bagian ini milik Elia
-GitHub Profile :
+GitHub Profile : https://github.com/eliaitlay
 
 ## Abed Nego
 

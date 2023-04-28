@@ -1,10 +1,12 @@
             <section class="bg-gray-200 p-5">
 
-                <a href="?page=" class="bg-gray-300 hover:bg-gray-400 transition px-3 py-2">Kembali</a>
+                <a href="index.php?page=beranda" class="bg-gray-300 hover:bg-gray-400 transition px-3 py-2">Kembali</a>
 
             </section>
             
             <div class="p-5">
+
+                <h1 class="text-3xl pb-5 font-bold">Form Tambah Siswa</h1>
                 
                 <!-- form start -->
                 <form action="functions/create.php" method="post">
@@ -15,7 +17,7 @@
                     </div>
 
                     <div class="mb-3">
-                        <label for="alamat_email">Alamt Email</label>
+                        <label for="alamat_email">Alamat Email</label>
                         <input type="email" id="alamat_email" name="alamat_email" class="border rounded shadow p-2 block w-1/3">
                     </div>
 

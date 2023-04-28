@@ -21,7 +21,7 @@
 
             <!-- main content start -->
             <?php 
-                if(isset($_GET['page']) && $_GET['page'] == ''){
+                if(isset($_GET['page']) && $_GET['page'] == 'beranda'){
                     include('pages/index.php');
                 } 
                 

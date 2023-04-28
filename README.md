@@ -27,10 +27,10 @@ GitHub Profile : https://github.com/eliaitlay
 bagian ini Milik Jekson
 GitHub Profile :
 
-## Arifander Itlay
+## Arifander
 
 Bagian ini milik Arifander
-GitHub Profile : 
+GitHub Profile : https://github.com/Arifander45
 
 ## Abed Nego
 

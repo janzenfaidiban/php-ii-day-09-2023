@@ -40,3 +40,6 @@ GitHub Profile :
 ## Anjas Tabuni
 Bagian ini milik Anjas
 GitHub Profile : 
+
+
+# MySQL Query 
